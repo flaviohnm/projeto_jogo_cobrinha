@@ -1,10 +1,13 @@
-body{
+body {
 
     height: 95vh;
-    width: 95vh;
+    width: 95vw;
     display: flex;
+    flex-direction: column;
     justify-content: center;
     align-items: center;
-    flex-direction: column;
+    background-color: #d9ffb3;
+    color: rgb(52, 165, 52);
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 
 }
